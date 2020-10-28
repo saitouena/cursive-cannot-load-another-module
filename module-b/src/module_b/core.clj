@@ -1,4 +1,4 @@
-(ns cursive-cannot-load-another-module.core)
+(ns module-b.core)
 
 (defn foo
   "I don't do a whole lot."

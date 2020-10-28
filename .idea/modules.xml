@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/cursive-cannot-load-another-module.iml" filepath="$PROJECT_DIR$/cursive-cannot-load-another-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module-a/module-a.iml" filepath="$PROJECT_DIR$/module-a/module-a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module-b/module-b.iml" filepath="$PROJECT_DIR$/module-b/module-b.iml" />
     </modules>
   </component>
 </project>
