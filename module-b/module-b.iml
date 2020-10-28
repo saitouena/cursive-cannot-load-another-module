@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module cursive.leiningen.project.LeiningenProjectsManager.displayName="module-b:0.1.0-SNAPSHOT" cursive.leiningen.project.LeiningenProjectsManager.isLeinModule="true" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <output url="file://$MODULE_DIR$/target/classes" />
-    <output-test url="file://$MODULE_DIR$/target/classes" />
+    <output url="file://$MODULE_DIR$/../module-a/checkouts/module-b/target/classes" />
+    <output-test url="file://$MODULE_DIR$/../module-a/checkouts/module-b/target/classes" />
     <exclude-output />
+    <content url="file://$MODULE_DIR$/../module-a/checkouts/module-b/dev-resources">
+      <sourceFolder url="file://$MODULE_DIR$/../module-a/checkouts/module-b/dev-resources" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../module-a/checkouts/module-b/resources">
+      <sourceFolder url="file://$MODULE_DIR$/../module-a/checkouts/module-b/resources" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../module-a/checkouts/module-b/src">
+      <sourceFolder url="file://$MODULE_DIR$/../module-a/checkouts/module-b/src" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../module-a/checkouts/module-b/test">
+      <sourceFolder url="file://$MODULE_DIR$/../module-a/checkouts/module-b/test" isTestSource="false" />
+    </content>
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/dev-resources" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/resources" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
